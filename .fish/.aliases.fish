@@ -1,0 +1,6 @@
+alias l "ls -alF"
+alias .. "cd .."
+alias sshserver "ssh user@server.dev"
+alias updatedb "sudo /usr/libexec/locate.updatedb"
+alias myrsync "rsync -aihvP"
+alias dotfiles "/usr/bin/git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
