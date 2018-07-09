@@ -1,0 +1,1 @@
+/Users/rlanier/.config/fisherman/bass/functions/bass.fish
